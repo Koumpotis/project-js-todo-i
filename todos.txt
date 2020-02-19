@@ -1,5 +1,7 @@
-Walk the dog
-Bake a cake
-Eat some pizza
-Write an important email
-Call my grandparents
+[ ] Go to the movies
+[ ] Wash the car
+[ ] Pick up the kids from Ballet
+[ ] Do laundry
+[ ] Walk the dog
+[ ] Study for English class
+[ ] Myslef
